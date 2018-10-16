@@ -35,7 +35,7 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - MULTIPLE-ATTRIBUTE TEXT REWRITING, https://openreview.net/forum?id=H1g2NhC5KQ 
 - Structured Content Preservation for Unsupervised Text Style Transfer，https://openreview.net/forum?id=S1lCbhAqKX
 - Adversarial Decomposition of Text Representation，https://openreview.net/forum?id=SJzwb2RcK7
-- 
+- Unsupervised Controllable Text Formalization, Arxiv, 2018, [paper]
 
 ## Stylistic Related Papers
 - Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing, EMNLP-2018, [[paper]](https://arxiv.org/abs/1804.07007)
