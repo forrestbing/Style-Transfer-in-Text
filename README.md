@@ -37,6 +37,9 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - Adversarial Decomposition of Text Representation，https://openreview.net/forum?id=SJzwb2RcK7
 - Unsupervised Controllable Text Formalization, Arxiv, 2018, https://arxiv.org/abs/1809.04556
 - Large-scale Hierarchical Alignment for Author Style Transfer, Arxiv, [[paper]](https://arxiv.org/abs/1810.08237)
+- Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, Arxiv, 2018, [paper]
+- Multiple-Attribute Text Style Transfer, Arxiv, 2018, [paper]
+- Content preserving text generation with attribute controls, NIPS, 2018, [paper]
 
 ## Stylistic Related Papers
 - Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing, EMNLP-2018, [[paper]](https://arxiv.org/abs/1804.07007)
