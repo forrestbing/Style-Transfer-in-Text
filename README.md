@@ -40,6 +40,7 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.11878)
 - Multiple-Attribute Text Style Transfer, Arxiv, 2018, [[paper]](https://arxiv.org/pdf/1811.00552.pdf)
 - Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
+- Iterative Matching and Translation for Non-Parallel Style Transfer, UNK, 2018, [[paper]](http://zhijing-jin.com/files/papers/Iterative.pdf)
 
 ## Stylistic Related Papers
 - Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing, EMNLP-2018, [[paper]](https://arxiv.org/abs/1804.07007)
