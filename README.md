@@ -36,8 +36,8 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - Unsupervised Controllable Text Formalization, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.04556)
 - Large-scale Hierarchical Alignment for Author Style Transfer, Arxiv, [[paper]](https://arxiv.org/abs/1810.08237)
 - Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.11878)
-- *** Multiple-Attribute Text Style Transfer（MULTIPLE-ATTRIBUTE TEXT REWRITING）, Arxiv, 2018, [[paper]](https://arxiv.org/pdf/1811.00552.pdf)， https://openreview.net/forum?id=H1g2NhC5KQ 
-- Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
+- **** Multiple-Attribute Text Style Transfer（MULTIPLE-ATTRIBUTE TEXT REWRITING）, Arxiv, 2018, [[paper]](https://arxiv.org/pdf/1811.00552.pdf)， https://openreview.net/forum?id=H1g2NhC5KQ 
+- *** Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
 - Iterative Matching and Translation for Non-Parallel Style Transfer, UNK, 2018, [[paper]](http://zhijing-jin.com/files/papers/Iterative.pdf)
 - *** Adversarial Text Generation via Feature-Mover’s Distance. NIPS, 2018, [[paper]](https://papers.nips.cc/paper/7717-adversarial-text-generation-via-feature-movers-distance.pdf), [[code]](https://github.com/LiqunChen0606/FM-GAN)
 - ** Towards Text Generation with Adversarially Learned Neural Outlines, NIPS, 2018, [[paper]](https://papers.nips.cc/paper/7983-towards-text-generation-with-adversarially-learned-neural-outlines.pdf)
