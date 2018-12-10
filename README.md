@@ -27,7 +27,7 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - Disentangled Representation Learning for Non-Parallel Text Style Transfer, Arxiv, [[paper]](https://arxiv.org/abs/1808.04339), [[code]](https://github.com/vineetjohn/linguistic-style-transfer)
 - Language Style Transfer from Sentences with Arbitrary Unknown Styles, Arxiv, [[paper]](https://arxiv.org/abs/1808.04071)
 - What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/abs/1808.04365)
-- Style Transfer as Unsupervised Machine Translation, Arxiv, [[paper]](https://arxiv.org/abs/1808.07894)
+- *** Style Transfer as Unsupervised Machine Translation, Arxiv, [[paper]](https://arxiv.org/abs/1808.07894)
 - Learning Sentiment Memories for Sentiment Modification without Parallel Data, EMNLP-2018, [[paper]](https://arxiv.org/abs/1808.07311), [[code]](https://github.com/lancopku/SMAE)
 - Style Transfer Through Multilingual and Feedback-Based Back-Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.06284)
 - *** Adversarially Regularized Autoencoders, ICML-2018, [[paper]](https://arxiv.org/abs/1706.04223), [[code]](https://github.com/jakezhaojb/ARAE)
