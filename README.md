@@ -25,7 +25,7 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - Fighting Offensive Language on Social Media with Unsupervised Text Style Transfer, ACL-2018, [[paper]](https://arxiv.org/abs/1805.07685)
 - Unsupervised Text Style Transfer using Language Models as Discriminators, NIPS, 2018, [[paper]](https://papers.nips.cc/paper/7959-unsupervised-text-style-transfer-using-language-models-as-discriminators)
 - *** Disentangled Representation Learning for Non-Parallel Text Style Transfer, Arxiv, [[paper]](https://arxiv.org/abs/1808.04339), [[code]](https://github.com/vineetjohn/linguistic-style-transfer)
-- Language Style Transfer from Sentences with Arbitrary Unknown Styles, Arxiv, [[paper]](https://arxiv.org/abs/1808.04071)
+- **** Language Style Transfer from Sentences with Arbitrary Unknown Styles, Arxiv, [[paper]](https://arxiv.org/abs/1808.04071)
 - What is wrong with style transfer for texts? Arxiv, [[paper]](https://arxiv.org/abs/1808.04365)
 - *** Style Transfer as Unsupervised Machine Translation, Arxiv, [[paper]](https://arxiv.org/abs/1808.07894)
 - Learning Sentiment Memories for Sentiment Modification without Parallel Data, EMNLP-2018, [[paper]](https://arxiv.org/abs/1808.07311), [[code]](https://github.com/lancopku/SMAE)
