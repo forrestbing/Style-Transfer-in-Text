@@ -32,7 +32,6 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - Style Transfer Through Multilingual and Feedback-Based Back-Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.06284)
 - *** Adversarially Regularized Autoencoders, ICML-2018, [[paper]](https://arxiv.org/abs/1706.04223), [[code]](https://github.com/jakezhaojb/ARAE)
 - ** Structured Content Preservation for Unsupervised Text Style Transfer，[[paper]](https://openreview.net/forum?id=S1lCbhAqKX)
-- Adversarial Decomposition of Text Representation，[[paper]](https://openreview.net/forum?id=SJzwb2RcK7)
 - *** Unsupervised Controllable Text Formalization, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.04556)
 - Large-scale Hierarchical Alignment for Author Style Transfer, Arxiv, [[paper]](https://arxiv.org/abs/1810.08237)
 - ** Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.11878)
@@ -43,7 +42,7 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - ** Towards Text Generation with Adversarially Learned Neural Outlines, NIPS, 2018, [[paper]](https://papers.nips.cc/paper/7983-towards-text-generation-with-adversarially-learned-neural-outlines.pdf)
 
 ## Stylistic Related Papers
-- Incorporating Pseudo-Parallel Data for Quantifiable Sequence Editing, EMNLP-2018, [[paper]](https://arxiv.org/abs/1804.07007)
+- QuaSE: Sequence Editing under Quantifiable Guidance, EMNLP-2018, [[paper]](https://arxiv.org/abs/1804.07007)
 - Polite Dialogue Generation Without Parallel Data, TACL, [[paper]](https://arxiv.org/abs/1805.03162)
 - Adversarial Decomposition of Text Representation, Arxiv, [[paper]](https://arxiv.org/abs/1808.09042)
 - Unsupervised Stylish Image Description Generation via Domain Layer Norm, Arxiv, [[paper]](https://arxiv.org/abs/1809.06214)
