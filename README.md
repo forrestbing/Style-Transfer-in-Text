@@ -30,7 +30,7 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - *** Style Transfer as Unsupervised Machine Translation, Arxiv, [[paper]](https://arxiv.org/abs/1808.07894)
 - Learning Sentiment Memories for Sentiment Modification without Parallel Data, EMNLP-2018, [[paper]](https://arxiv.org/abs/1808.07311), [[code]](https://github.com/lancopku/SMAE)
 - Style Transfer Through Multilingual and Feedback-Based Back-Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.06284)
-- *** Adversarially Regularized Autoencoders, ICML-2018, [[paper]](https://arxiv.org/abs/1706.04223), [[code]](https://github.com/jakezhaojb/ARAE)
+- *** Adversarially Regularized Autoencoders, ICML-2017, [[paper]](https://arxiv.org/abs/1706.04223), [[code]](https://github.com/jakezhaojb/ARAE)
 - ** Structured Content Preservation for Unsupervised Text Style Transfer，[[paper]](https://openreview.net/forum?id=S1lCbhAqKX)
 - *** Unsupervised Controllable Text Formalization, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.04556)
 - Large-scale Hierarchical Alignment for Author Style Transfer, Arxiv, [[paper]](https://arxiv.org/abs/1810.08237)
