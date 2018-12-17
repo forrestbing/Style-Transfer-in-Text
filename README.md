@@ -42,7 +42,6 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - ** Towards Text Generation with Adversarially Learned Neural Outlines, NIPS, 2018, [[paper]](https://papers.nips.cc/paper/7983-towards-text-generation-with-adversarially-learned-neural-outlines.pdf)
 
 ## Stylistic Related Papers
-- QuaSE: Sequence Editing under Quantifiable Guidance, EMNLP-2018, [[paper]](https://arxiv.org/abs/1804.07007)
 - Polite Dialogue Generation Without Parallel Data, TACL, [[paper]](https://arxiv.org/abs/1805.03162)
 - Adversarial Decomposition of Text Representation, Arxiv, [[paper]](https://arxiv.org/abs/1808.09042)
 - Unsupervised Stylish Image Description Generation via Domain Layer Norm, Arxiv, [[paper]](https://arxiv.org/abs/1809.06214)
