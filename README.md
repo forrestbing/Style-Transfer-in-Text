@@ -38,8 +38,3 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - *** Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
 - *** Adversarial Text Generation via Feature-Mover’s Distance. NIPS, 2018, [[paper]](https://papers.nips.cc/paper/7717-adversarial-text-generation-via-feature-movers-distance.pdf), [[code]](https://github.com/LiqunChen0606/FM-GAN)
 - ** Towards Text Generation with Adversarially Learned Neural Outlines, NIPS, 2018, [[paper]](https://papers.nips.cc/paper/7983-towards-text-generation-with-adversarially-learned-neural-outlines.pdf)
-
-## Stylistic Related Papers
-- Polite Dialogue Generation Without Parallel Data, TACL, [[paper]](https://arxiv.org/abs/1805.03162)
-- Adversarial Decomposition of Text Representation, Arxiv, [[paper]](https://arxiv.org/abs/1808.09042)
-- Unsupervised Stylish Image Description Generation via Domain Layer Norm, Arxiv, [[paper]](https://arxiv.org/abs/1809.06214)
