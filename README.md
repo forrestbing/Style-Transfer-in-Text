@@ -31,7 +31,7 @@ The base papers forked from https://github.com/fuzhenxin/Style-Transfer-in-Text
 - Style Transfer Through Multilingual and Feedback-Based Back-Translation, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.06284)
 - *** Adversarially Regularized Autoencoders, ICML-2018, [[paper]](https://arxiv.org/abs/1706.04223), [[code]](https://github.com/jakezhaojb/ARAE)
 - ** Structured Content Preservation for Unsupervised Text Style Transfer，[[paper]](https://openreview.net/forum?id=S1lCbhAqKX)
-- *** Unsupervised Controllable Text Formalization, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1809.04556)
+- *** Unsupervised Controllable Text Formalization, AAAI-2019, [[paper]](https://arxiv.org/abs/1809.04556)
 - ** Learning Criteria and Evaluation Metrics for Textual Transfer between Non-Parallel Corpora, Arxiv, 2018, [[paper]](https://arxiv.org/abs/1810.11878)
 - **** Multiple-Attribute Text Style Transfer（MULTIPLE-ATTRIBUTE TEXT REWRITING）, Arxiv, 2018, [[paper]](https://arxiv.org/pdf/1811.00552.pdf)， https://openreview.net/forum?id=H1g2NhC5KQ 
 - *** Content preserving text generation with attribute controls, NIPS, 2018, [[paper]](https://arxiv.org/abs/1811.01135)
